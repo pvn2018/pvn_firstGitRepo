@@ -2,15 +2,18 @@ How are you ?
 
 This is a file to track git version.....!
 
-Change 1:
+Change 1]:
 
 Welcome to git
 
-Change 2: hello
+Change 2]: hello
 
-Change 3:
+Change 3]:
 
-conflictnum2
+
+
+conflict
+
 
 
 
