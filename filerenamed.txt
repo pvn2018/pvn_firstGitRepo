@@ -1,14 +1,16 @@
 How are you ?
 
-this is a file to track git version.....!
+This is a file to track git version.....!
 
-change1:
+Change 1:
 
-welcome to git
+Welcome to git
 
-change2: hello
+Change 2: hello
 
-change3
+Change 3:
+
+
 
 
 
